@@ -1,0 +1,3 @@
+rootProject.name = 'rnproj'
+
+include ':app'
